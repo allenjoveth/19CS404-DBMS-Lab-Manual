@@ -184,8 +184,6 @@ or outstanding_amt>8000;
 **Output:**
 
 <img width="1233" height="592" alt="image" src="https://github.com/user-attachments/assets/056e7653-72b3-4652-b174-3021c06c9089" />             
-## Grade
-<img width="1381" height="72" alt="image" src="https://github.com/user-attachments/assets/8a93917b-6a90-4f84-ad55-158f610be3b1" />
 
 
 ## RESULT
