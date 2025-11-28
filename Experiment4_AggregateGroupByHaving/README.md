@@ -185,9 +185,6 @@ ORDER BY age_group;
 
 <img width="653" height="309" alt="image" src="https://github.com/user-attachments/assets/6762c2e2-c3ef-4c7e-87b2-5436b0cdb277" />
 
-## Grade
-<img width="1344" height="59" alt="image" src="https://github.com/user-attachments/assets/008eb49d-930b-4266-8d4b-5f2e69992134" />
-
 
 
 ## RESULT
